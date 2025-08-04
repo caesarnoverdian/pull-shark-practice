@@ -1,4 +1,4 @@
-name: DevOps Guru
+name: DevOps Guru Test
 
 on:
   push:
