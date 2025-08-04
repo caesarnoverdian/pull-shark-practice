@@ -1,2 +1,2 @@
 # pull-shark-practice
-Latihan Pull Request untuk mendapatkan badge Pull Shark
+Ini adalah latihan untuk mendapatkan badge Pull Shark 🦈
